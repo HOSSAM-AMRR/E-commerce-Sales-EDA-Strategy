@@ -128,6 +128,7 @@ These charts, generated and exported directly from the Jupyter Notebook, serve a
 3.  **Future Modeling:** Proceed to **Feature Engineering** and the development of a **RFM (Recency, Frequency, Monetary) segmentation model** using the clean dataset.
 
 ---
+
 ## 🤝 Connect with the Analyst
 
 **Hossam Amr** – *Advanced Data Analyst | Data Strategist*  
@@ -149,4 +150,4 @@ These charts, generated and exported directly from the Jupyter Notebook, serve a
 ---
 
 **Professional Note:**  
-I specialize in transforming complex datasets into actionable insights. I welcome collaborations, strategic discussions, and opportunities to contribute to data-driven projects. Connect via LinkedIn, explore my code on GitHub, or browse my portfolio to see full project case studies.
+I leverage advanced data analytics to turn complex datasets into strategic insights. I welcome collaborative opportunities, professional discussions, and projects that drive measurable impact. Connect via LinkedIn, explore my work on GitHub, or view detailed case studies in my portfolio.
