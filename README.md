@@ -24,7 +24,7 @@ The entire analysis is executed within a Jupyter Notebook environment, highlight
 | :--- | :--- |
 | **Source Code** | **`E-commerce-Sales-EDA.ipynb`** (Python/Pandas/Seaborn) |
 | **Core Libraries** | Python (Pandas, NumPy, Matplotlib, Seaborn). |
-| **Data Source** | [E-commerce Sales Dataset (Hosted on Google Drive/Kaggle)](https://drive.google.com/file/d/1DD3xSGsv41cmutp8GF2l2z7q3XvaIOU-/view?usp=drive_link) |
+| **Data Source** | [E-commerce Sales Dataset (Hosted on Google Drive/Kaggle)](https://github.com/HOSSAM-AMRR/E-commerce-Sales-EDA-Strategy/blob/main/Data/data.csv) |
 | **Data Preparation** | **Cleaning:** Handled missing values (Imputation for Customer ID), filtered invalid/negative transaction records, and converted date fields. |
 
 ---
@@ -53,7 +53,7 @@ These charts, generated and exported directly from the Jupyter Notebook, serve a
 ## 1️⃣ Monthly Sales Trend
 **Visual:** Line chart (Monthly total sales)  
 
-![Monthly total sales](https://github.com/HOSSAM-AMRR/E-commerce-Sales-EDA-Strategy/blob/main/EDA-Sales%20-Months.png)
+![Monthly total sales](https://github.com/HOSSAM-AMRR/E-commerce-Sales-EDA-Strategy/blob/main/Images/EDA-Sales%20-Monthly%20-%20Trend.png)
 
 **Key Insight:**  
 - Peak sales observed in December & November (holiday effect).  
@@ -67,7 +67,7 @@ These charts, generated and exported directly from the Jupyter Notebook, serve a
 ## 2️⃣ Hourly Sales Distribution
 **Visual:** Bar chart (Sales per hour of the day)  
 
-![Sales per hour of the day](https://github.com/HOSSAM-AMRR/E-commerce-Sales-EDA-Strategy/blob/main/EDA-Hourly%20Sales%20Destribution.png)
+![Sales per hour of the day](https://github.com/HOSSAM-AMRR/E-commerce-Sales-EDA-Strategy/blob/main/Images/EDA-Hourly%20Sales%20Destribution.png)
 
 **Key Insight:**  
 - Highest sales during 12 PM – 2 PM & 7 PM – 9 PM.  
@@ -81,7 +81,7 @@ These charts, generated and exported directly from the Jupyter Notebook, serve a
 ## 3️⃣ Top 5 Countries by Revenue
 **Visual:** Bar chart (Revenue per country)  
 
-![Revenue per country](https://github.com/HOSSAM-AMRR/E-commerce-Sales-EDA-Strategy/blob/main/EDA-Top-Countries-Revenue.png)
+![Revenue per country](https://github.com/HOSSAM-AMRR/E-commerce-Sales-EDA-Strategy/blob/main/Images/EDA-Top-Countries-Revenue.png)
 
 **Key Insight:**  
 - UK & Germany contribute the majority of revenue (~60%).  
@@ -95,7 +95,7 @@ These charts, generated and exported directly from the Jupyter Notebook, serve a
 ## 4️⃣ Top 10 Products by Revenue
 **Visual:** Bar chart (Revenue per product)  
 
-![Revenue per product](https://github.com/HOSSAM-AMRR/E-commerce-Sales-EDA-Strategy/blob/main/EDA-Top-Products-Revenue.png)
+![Revenue per product](https://github.com/HOSSAM-AMRR/E-commerce-Sales-EDA-Strategy/blob/main/Images/EDA-Top-Products-Revenue.png)
 
 **Key Insight:**  
 - Top 3 products contribute >30% of total revenue.  
@@ -110,7 +110,7 @@ These charts, generated and exported directly from the Jupyter Notebook, serve a
 ## 5️⃣ Revenue Contribution: Top 5% Customers vs Others
 **Visual:** Pie chart (Revenue share Top 5% vs Others)  
 
-![Revenue share Top 5% vs Others](https://github.com/HOSSAM-AMRR/E-commerce-Sales-EDA-Strategy/blob/main/EDA-Customer-Revenue-Concentration.png)
+![Revenue share Top 5% vs Others](https://github.com/HOSSAM-AMRR/E-commerce-Sales-EDA-Strategy/blob/main/Images/EDA-Customer-Revenue-Concentration.png)
 
 **Key Insight:**  
 - Top 5% of customers contribute ~36% of total revenue.  
