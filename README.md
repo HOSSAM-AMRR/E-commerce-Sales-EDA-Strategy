@@ -128,12 +128,25 @@ These charts, generated and exported directly from the Jupyter Notebook, serve a
 3.  **Future Modeling:** Proceed to **Feature Engineering** and the development of a **RFM (Recency, Frequency, Monetary) segmentation model** using the clean dataset.
 
 ---
-## 🤝 6. CONNECT WITH THE ANALYST
+## 🤝 Connect with the Analyst
 
-**[Your Name/Title]** - *Advanced Data Analyst / Data Strategist*
+**Hossam Amr** – *Advanced Data Analyst | Data Strategist*  
 
-| Platform | Contact Details |
+| 🌐 Platform | 🔗 Profile / Contact |
 | :--- | :--- |
-| **LinkedIn** | [Connect for Strategic Insights](https://www.linkedin.com/in/hossamamr2002/) |
-| **GitHub** | [Explore My Other Projects and Source Code](https://github.com/yourusername) |
-| **Email** | [My Gmail](hossam.amr2710@gmail.com) |
+| **LinkedIn** | [Connect for Professional Insights](https://www.linkedin.com/in/hossamamr2002/) |
+| **GitHub** | [View Projects & Source Code](https://github.com/yourusername) |
+| **Portfolio** | [Explore My Data Projects](https://yourportfolio.com) |
+| **Email** | [hossam.amr2710@gmail.com](mailto:hossam.amr2710@gmail.com) |
+
+---
+
+### 💼 Portfolio Highlights
+- **Sales Analysis Dashboard:** Interactive Power BI dashboards for retail data insights  
+- **Social Media Analytics:** Multi-platform engagement analysis for UAE university students  
+- **Energy Monitoring System:** Python-based SNMP network monitoring project  
+
+---
+
+**Professional Note:**  
+I specialize in transforming complex datasets into actionable insights. I welcome collaborations, strategic discussions, and opportunities to contribute to data-driven projects. Connect via LinkedIn, explore my code on GitHub, or browse my portfolio to see full project case studies.
